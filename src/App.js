@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <p>
-          hjggjhgjgjhgjhgjhgjh
+          Stepan Shatvoryan NewProject 
         </p>
       </header>
     </div>
